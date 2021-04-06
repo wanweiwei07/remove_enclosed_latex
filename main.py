@@ -1,3 +1,8 @@
+"""
+author: weiwei
+date: 202010406
+"""
+
 import copy
 
 def find_all(a_string, pattern):
