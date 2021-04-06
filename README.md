@@ -1,4 +1,4 @@
-# remove_enclosed_latex
+# Remove enclosing latex pairs
 
 * Python code for removing closed latex key words like \rev{xxx}. The content "xxx" will be kept. The key word and curly brackets "\rev{" and "}" will be removed. 
 * Only words wrapped by curly brackets are supported.
